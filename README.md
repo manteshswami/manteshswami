@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Mantesh Swami
 
-🎓 A passionate learner driven by curiosity and creativity, exploring the fields of **Data Analytics**, **Data Science**, and **Machine Learning**. I enjoy solving real-world problems through data and continuously improving my skills.
+🎓 A passionate learner driven by curiosity and creativity, exploring the fields of **Data Analytics**, **Data Science**, and **Machine Learning**. I enjoy solving real-world problems through data and continuously sharpening my skillset.
 
 ---
 
@@ -39,12 +39,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manteshswami&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=manteshswami&theme=radical)](https://git.io/streak-stats)
-
 ---
-
 ### 🧠 Quote to Remember
-> **"Intellectual growth should commence at birth and cease only at death."
-       ** — *Albert Einstein*
+
+> **"Intellectual growth should commence at birth and cease only at death."**  
+> — *Albert Einstein*
 
 ---
