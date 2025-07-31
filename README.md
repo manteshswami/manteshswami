@@ -43,11 +43,4 @@ I'm Mantesh Swami — a passionate learner and explorer in the field of **Data A
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 📫 How to reach me:
-- Email: [swamimantesh215@gmail.com](mailto:swamimantesh215@gmail.com)  
-- LinkedIn: [mantesh-swami-585896276](https://www.linkedin.com/in/mantesh-swami-585896276)
-
----
-
 🔍 *“Always exploring data, one insight at a time.”*
