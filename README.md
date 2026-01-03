@@ -28,18 +28,26 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
+#### 🧠✨ Deep Learning & GenAI:
+![ANN](https://img.shields.io/badge/ANN-4B0082?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-800080?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge)
+![Chatbot](https://img.shields.io/badge/AI%20Chatbot-0A66C2?style=for-the-badge)
+
+#### 👁️ Computer Vision:
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge)
+
 #### 🌐 Others:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manteshswami&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
 ### 🧠 Quote to Remember
 
 > **"Intellectual growth should commence at birth and cease only at death."**  
