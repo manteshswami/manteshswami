@@ -6,6 +6,7 @@
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mantesh-swami-585896276)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge)](https://www.evolvue.ai/portfolio/mantesh-swami)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:swamimantesh215@gmail.com)
 
 ---
