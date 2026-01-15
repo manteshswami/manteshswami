@@ -10,7 +10,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:swamimantesh215@gmail.com)
 
 ---
+### 📈 GitHub Activity
 
+![Mantesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manteshswami)
+
+---
 ### 💻 Tech Stack
 
 #### 📊 Data Analytics:
