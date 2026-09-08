@@ -148,8 +148,9 @@ AI agents · prompt engineering · function calling · vector databases · Chrom
 Open to AI research, computer vision, generative AI, and data analytics roles.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=90&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon.svg">
+  <img src="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon-dark.svg" alt="dragon contribution graph" width="100%">
 </picture>
 
 </div>
