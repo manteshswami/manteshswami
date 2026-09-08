@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=160&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=e7e9f2&animation=fadeIn&fontAlignY=42&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=65&descColor=8a8fa3">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=160&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=1b1d24&animation=fadeIn&fontAlignY=42&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=65&descColor=6b6f80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:120b05,35:2b1407,70:8f3f00,100:ff9800&height=180&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=fff3e0&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=64&descColor=ffd180&stroke=ffb347&strokeWidth=2">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=180&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=64&descColor=9a4d00&stroke=ff9800&strokeWidth=2">
 </picture>
 
 <br>
@@ -123,11 +123,6 @@ Deep learning web app for recognising facial expressions from uploaded images an
 <div align="center">
 
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manteshswami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <br>
 
