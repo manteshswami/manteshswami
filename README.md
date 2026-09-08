@@ -1,144 +1,155 @@
-# 👋 Hi, I'm Mantesh Swami
+<div align="center">
 
-🚀 AI Research Engineer passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Data Analytics**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=160&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=e7e9f2&animation=fadeIn&fontAlignY=42&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=65&descColor=8a8fa3">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=160&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=1b1d24&animation=fadeIn&fontAlignY=42&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=65&descColor=6b6f80">
+</picture>
 
-I enjoy developing end-to-end AI solutions—from data processing and model training to deploying production-ready applications. My interests include AI Agents, Vision-Language Models (VLMs), LLMs, multimodal AI, and intelligent automation.
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4e8cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantesh-swami-585896276)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-4e8cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamimantesh215@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-4e8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manteshswami)
 
-## 🌐 Connect with Me
+<img src="https://komarev.com/ghpvc/?username=manteshswami&style=for-the-badge&color=4e8cff&label=PROFILE+VIEWS" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mantesh-swami-585896276)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/manteshswami)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:swamimantesh215@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+</div>
 
 ---
 
-## 📊 Data Analytics
+### About
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+AI Research Engineer building end-to-end AI systems — data pipelines, model training, evaluation, and deployment — across **computer vision, NLP, and LLM-based applications**. Currently working on applied CV/NLP/GenAI projects at Adgama Digital, with particular interest in vision-language models, RAG, and intelligent agents.
 
 ---
 
-## 🤖 Machine Learning
+### Featured project
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+<table>
+<tr>
+<td width="100%">
 
-**Algorithms**
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- Support Vector Machine (SVM)
-- KNN
-- Naive Bayes
-- K-Means Clustering
-- PCA
-- XGBoost
-- CatBoost
+**NeuroExpress — Facial Emotion Recognition**
 
----
+Deep learning web app for recognising facial expressions from uploaded images and live camera input, built on a fine-tuned ResNet-50 with OpenCV pre-processing and a Streamlit front end.
 
-## 🧠 Deep Learning
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-4e8cff?style=flat-square&logo=streamlit&logoColor=white)](https://neuroexpress-facial-emotion.streamlit.app/)
+[![Source](https://img.shields.io/badge/Source-GitHub-2a2e3d?style=flat-square&logo=github&logoColor=white)](https://github.com/manteshswami/Human-Facial-Expression-Recognition-Using-Deep-Learning-and-Computer-Vision-Techniques)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-2a2e3d?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2a2e3d?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2a2e3d?style=flat-square&logo=opencv&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-**Models**
-- ANN
-- CNN
-- RNN
-- LSTM
-- GRU
-- Attention Mechanisms
-- Transformers
-- Transfer Learning
+</td>
+</tr>
+</table>
 
 ---
 
-## 👁️ Computer Vision
+### Tech stack
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
-![Detectron2](https://img.shields.io/badge/Detectron2-blue?style=for-the-badge)
+<details>
+<summary><b>Programming & Data</b></summary>
+<br>
 
-**Experience With**
-- Object Detection
-- Image Classification
-- Semantic Segmentation
-- Instance Segmentation
-- Face Recognition
-- OCR
-- Video Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Machine Learning & Deep Learning</b></summary>
+<br>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+CNN · RNN · LSTM · GRU · Attention · Transformers · Transfer Learning
+
+</details>
+
+<details>
+<summary><b>Computer Vision</b></summary>
+<br>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-2a2e3d?style=flat-square)
+![Detectron2](https://img.shields.io/badge/Detectron2-2a2e3d?style=flat-square)
+
+Object detection · image classification · semantic & instance segmentation · face recognition · OCR
+
+</details>
+
+<details>
+<summary><b>Generative AI & LLMs</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2a2e3d?style=flat-square)
+
+AI agents · prompt engineering · function calling · vector databases · ChromaDB
+
+</details>
+
+<details>
+<summary><b>Deployment & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2a2e3d?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
 
 ---
 
-## ✨ Generative AI & LLMs
+### GitHub analytics
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manteshswami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=manteshswami&show_icons=true&theme=default&hide_border=true&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=tokyonight&hide_border=true">
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manteshswami&layout=compact&theme=default&hide_border=true">
+</picture>
 
-**Experience With**
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Vision Language Models (VLMs)
-- Prompt Engineering
-- Function Calling
-- Vector Databases
-- ChromaDB
-- Ollama
-- API Integration
+<br clear="both">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manteshswami&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=manteshswami&theme=default&hide_border=true">
+</picture>
 
-## ☁️ Cloud & Deployment
+<br><br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://raw.githubusercontent.com/manteshswami/manteshswami/output/github-snake.svg" alt="contribution snake" width="100%">
 
 ---
 
-## 🚀 Current Interests
+### Get in touch
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- AI Agents
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- MLOps
-- Intelligent Automation
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/swamimantesh215@gmail.com-2a2e3d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamimantesh215@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-2a2e3d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantesh-swami-585896276)
 
-## 💡 Motto
+Open to AI research, computer vision, generative AI, and data analytics roles.
 
-> **"Keep learning. Keep building. Keep improving."**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=90&section=footer">
+</picture>
+
+</div>
