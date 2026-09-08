@@ -106,7 +106,7 @@ def render_svg(grid, num_weeks):
         f'<svg viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">'
     )
     
-    # --- Rich Dark Theme CSS ---
+    # --- Dark Theme CSS (Matches GitHub Dark Mode) ---
     svg.append("""
     <style>
       .bg { fill: #0d1117; }
@@ -121,6 +121,8 @@ def render_svg(grid, num_weeks):
       .dragon-eye { fill: #39d353; }
     </style>
     """)
+
+  
 
     svg.append(f'<rect x="0" y="0" width="{width}" height="{height}" class="bg"/>')
 
