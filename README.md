@@ -152,9 +152,6 @@ Deep learning web app for recognising facial expressions from uploaded images an
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=90&section=footer">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
 
 </div>
