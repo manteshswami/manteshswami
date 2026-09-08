@@ -48,9 +48,9 @@ Deep learning web app for recognising facial expressions from uploaded images an
 
 ### Tech stack
 
-<details>
-<summary><b>Programming & Data</b></summary>
-<br>
+<div align="center">
+
+<p><b>Programming & Data</b></p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -58,51 +58,35 @@ Deep learning web app for recognising facial expressions from uploaded images an
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-</details>
-
-<details>
-<summary><b>Machine Learning & Deep Learning</b></summary>
-<br>
+<p><b>Machine Learning & Deep Learning</b></p>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-CNN · RNN · LSTM · GRU · Attention · Transformers · Transfer Learning
-
-</details>
-
-<details>
-<summary><b>Computer Vision</b></summary>
 <br>
+<sub>CNN · RNN · LSTM · GRU · Attention · Transformers · Transfer Learning</sub>
+
+<p><b>Computer Vision</b></p>
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-2a2e3d?style=flat-square)
 ![Detectron2](https://img.shields.io/badge/Detectron2-2a2e3d?style=flat-square)
-
-Object detection · image classification · semantic & instance segmentation · face recognition · OCR
-
-</details>
-
-<details>
-<summary><b>Generative AI & LLMs</b></summary>
 <br>
+<sub>Object detection · image classification · semantic & instance segmentation · face recognition · OCR</sub>
+
+<p><b>Generative AI & LLMs</b></p>
 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-2a2e3d?style=flat-square)
-
-AI agents · prompt engineering · function calling · vector databases · ChromaDB
-
-</details>
-
-<details>
-<summary><b>Deployment & Tools</b></summary>
 <br>
+<sub>AI agents · prompt engineering · function calling · vector databases · ChromaDB</sub>
+
+<p><b>Deployment & Tools</b></p>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -110,7 +94,7 @@ AI agents · prompt engineering · function calling · vector databases · Chrom
 ![Flask](https://img.shields.io/badge/Flask-2a2e3d?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</details>
+</div>
 
 ---
 
@@ -134,7 +118,7 @@ AI agents · prompt engineering · function calling · vector databases · Chrom
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/manteshswami/manteshswami/output/github-snake.svg" alt="contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon.svg" alt="dragon contribution graph" width="100%">
 
 ---
 
@@ -148,9 +132,8 @@ AI agents · prompt engineering · function calling · vector databases · Chrom
 Open to AI research, computer vision, generative AI, and data analytics roles.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon.svg">
-  <img src="https://raw.githubusercontent.com/manteshswami/manteshswami/main/dist/dragon-dark.svg" alt="dragon contribution graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e7e5dc,100:4e8cff&height=90&section=footer">
 </picture>
 
 </div>
