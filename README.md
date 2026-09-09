@@ -32,7 +32,7 @@
 
 ### ⚡ About Me
 
-AI Research Engineer building end-to-end AI systems — data pipelines, model training, evaluation, and deployment — across **computer vision, NLP, and LLM-based applications**. Currently working on applied CV/NLP/GenAI projects at Adgama Digital, with particular interest in vision-language models, RAG, and intelligent agents.
+AI Research Engineer building end-to-end AI systems across data pipelines, model training, evaluation, and deployment, with a focus on computer vision, NLP, and LLM-based applications. Currently developing applied CV, NLP, and generative AI solutions at Calyx Global, with particular interest in vision-language models, retrieval-augmented generation (RAG), and intelligent agent systems.
 
 </div>
 
