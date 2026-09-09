@@ -1,19 +1,28 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:120b05,35:2b1407,70:8f3f00,100:ff9800&height=180&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=fff3e0&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=64&descColor=ffd180&stroke=ffb347&strokeWidth=2">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=180&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=64&descColor=9a4d00&stroke=ff9800&strokeWidth=2">
-</picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:120b05,35:2b1407,70:8f3f00,100:ff9800&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=fff3e0&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=ffffff&descAlign=50"
+  />
 
-<br>
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=7a2e00&descAlign=50"
+  />
+
+  <!-- Fallback -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=7a2e00&descAlign=50"
+    alt="Mantesh Swami — AI Research Engineer"
+  />
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4e8cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantesh-swami-585896276)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-4e8cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamimantesh215@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-4e8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manteshswami)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=manteshswami&style=for-the-badge&color=4e8cff&label=PROFILE+VIEWS" />
 
 </div>
 
