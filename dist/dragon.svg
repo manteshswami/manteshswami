@@ -381,7 +381,7 @@
 <rect x="748" y="20" width="11" height="11" rx="2" class="empty"/>
 <rect x="748" y="34" width="11" height="11" rx="2" class="empty"/>
 <rect x="748" y="48" width="11" height="11" rx="2" class="lvl-4"/>
-<rect x="748" y="62" width="11" height="11" rx="2" class="empty"/>
+<rect x="748" y="62" width="11" height="11" rx="2" class="lvl-1"/>
 <rect x="748" y="76" width="11" height="11" rx="2" class="empty"/>
 <rect x="748" y="90" width="11" height="11" rx="2" class="empty"/>
 <rect x="748" y="104" width="11" height="11" rx="2" class="empty"/>
