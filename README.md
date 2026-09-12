@@ -46,20 +46,22 @@ AI Research Engineer building end-to-end AI systems across data pipelines, model
 <tr>
 <td align="center">
 
-**NeuroExpress — Facial Emotion Recognition**
+**🧠 NeuroExpress — Advanced Facial Emotion Recognition**
 
-Deep learning web app for recognising facial expressions from uploaded images and live camera input, built on a fine-tuned ResNet-50 with OpenCV pre-processing and a Streamlit front end.
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-4e8cff?style=flat-square&logo=streamlit&logoColor=white)](https://neuroexpress-facial-emotion.streamlit.app/)
-[![Source](https://img.shields.io/badge/Source-GitHub-2a2e3d?style=flat-square&logo=github&logoColor=white)](https://github.com/manteshswami/Human-Facial-Expression-Recognition-Using-Deep-Learning-and-Computer-Vision-Techniques)
+Production-grade deep learning web app classifying facial expressions with **98.46% accuracy** using ResNet50 + DenseNet121 soft-voting ensemble. Features real-time emotion detection from images and live camera input with adaptive OpenCV preprocessing.
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-2a2e3d?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2a2e3d?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-2a2e3d?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-3.12.1-red?style=flat-square&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-green?style=flat-square&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.11.0-purple?style=flat-square&logo=opencv&logoColor=white)
+
+<br>
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-4e8cff?style=flat-square&logo=streamlit&logoColor=white)](https://neuroexpression.streamlit.app/)
+[![📖 GitHub Repository](https://img.shields.io/badge/📖%20GitHub-Repository-2a2e3d?style=flat-square&logo=github&logoColor=white)](https://github.com/manteshswami/Human-Facial-Expression-Recognition-Using-Deep-Learning-and-Computer-Vision-Techniques)
 
 </td>
 </tr>
