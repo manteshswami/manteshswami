@@ -1,16 +1,158 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**manteshswami/manteshswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:120b05,35:2b1407,70:8f3f00,100:ff9800&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=fff3e0&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=ffffff&descAlign=50"
+  />
 
-Here are some ideas to get you started:
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=7a2e00&descAlign=50"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Fallback -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:fff3e0,35:ffe0b2,70:ffb74d,100:ff8c00&height=200&section=header&text=Mantesh%20Swami&fontSize=40&fontColor=7a2e00&animation=fadeIn&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=7a2e00&descAlign=50"
+    alt="Mantesh Swami — AI Research Engineer"
+  />
+</picture>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4e8cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantesh-swami-585896276)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-4e8cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamimantesh215@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-4e8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manteshswami)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ About Me
+
+AI Research Engineer building end-to-end AI systems across data pipelines, model training, evaluation, and deployment, with a focus on computer vision, NLP, and LLM-based applications. Currently developing applied CV, NLP, and generative AI solutions at Calyx Global, with particular interest in vision-language models, retrieval-augmented generation (RAG), and intelligent agent systems.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Featured Project
+
+<table>
+<tr>
+<td align="center">
+
+**🧠 NeuroExpress — Advanced Facial Emotion Recognition**
+
+Production-grade deep learning web app classifying facial expressions with **98.46% accuracy** using ResNet50 + DenseNet121 soft-voting ensemble. Features real-time emotion detection from images and live camera input with adaptive OpenCV preprocessing.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-3.12.1-red?style=flat-square&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-green?style=flat-square&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.11.0-purple?style=flat-square&logo=opencv&logoColor=white)
+
+<br>
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-4e8cff?style=flat-square&logo=streamlit&logoColor=white)](https://neuroexpression.streamlit.app/)
+[![📖 GitHub Repository](https://img.shields.io/badge/📖%20GitHub-Repository-2a2e3d?style=flat-square&logo=github&logoColor=white)](https://github.com/manteshswami/Human-Facial-Expression-Recognition-Using-Deep-Learning-and-Computer-Vision-Techniques)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Programming & Data**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<br>
+
+**Machine Learning & Deep Learning**
+<br>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<br>
+<sub>CNN · RNN · LSTM · GRU · Attention · Transformers · Transfer Learning</sub>
+
+<br>
+
+**Computer Vision**
+<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-2a2e3d?style=flat-square)
+![Detectron2](https://img.shields.io/badge/Detectron2-2a2e3d?style=flat-square)
+<br>
+<sub>Object detection · image classification · semantic & instance segmentation · face recognition · OCR</sub>
+
+<br>
+
+**Generative AI & LLMs**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2a2e3d?style=flat-square)
+<br>
+<sub>AI agents · prompt engineering · function calling · vector databases · ChromaDB</sub>
+
+<br>
+
+**Deployment & Tools**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2a2e3d?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<br>
+
+<!-- Working GitHub Streak Stats Card -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manteshswami&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</a>
+
+<div align="center">
+
+### 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/swamimantesh215@gmail.com-2a2e3d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamimantesh215@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-2a2e3d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantesh-swami-585896276)
+
+<p>Open to AI research, computer vision, generative AI, and data analytics roles.</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2e,100:4e8cff&height=90&section=footer">
+
+</div>
