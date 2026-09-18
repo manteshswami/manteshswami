@@ -136,7 +136,6 @@ Production-grade deep learning web app classifying facial expressions with **98.
 ### 📊 GitHub Analytics
 
 <br>
-
 <!-- Working GitHub Streak Stats Card -->
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manteshswami&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
